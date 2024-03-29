@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sirnicson
-- 👀 I’m interested in data analytical ventures that explore social data, market data, digital data and educational data.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on any data sets of interest.
+- 👀 I’m interested in front end development of civic technologies.
+- 🌱 I’m currently learning html/css/javascript.
+- 💞️ I’m looking to collaborate on any similar projects.
 - 📫 You can reach me at nicsonwilson@gmail.com.
 
 <!---
