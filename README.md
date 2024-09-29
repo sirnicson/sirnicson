@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @sirnicson
-- 👀 I’m interested in front end development of civic technologies.
-- 🌱 I’m currently learning html/css/javascript.
-- 💞️ I’m looking to collaborate on any similar projects.
+- 👋 Hi, I am a trained urban planner, embarking on this daring journey towards urban computing
+- 👀 Coming from a non-technical background, this github is a documentation of my journey in computing
+- 🌱 I’m currently doing an MSc in Computer Science, and simultaneously training as part of the ALX Software Engineering Track.
+- 🪜 My codes are a work in progress, and they might be less optimized.
+- 🔓 But I am open to learning, collaborating, and embracing new approaches.
+  
 - 📫 You can reach me at nicsonwilson@gmail.com.
 
 <!---
